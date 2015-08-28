@@ -1,6 +1,5 @@
 //
 //  VSCheckSSID.h
-//  Conex
 //
 //  Created by PJ Vea on 8/27/15.
 //  Copyright (c) 2015 Vea Software. All rights reserved.
